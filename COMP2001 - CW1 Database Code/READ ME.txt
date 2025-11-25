@@ -1,0 +1,11 @@
+In case you find out '(CW1) Set Exercise 4 - 7.sql' is corrupted or cannot open,
+navigate to "Backup Code (Exercise 4 - 7)" folder and open them.
+
+Inside "Backup Code (Exercise 4 - 7)" folder have:
+	(CW1) Set Exercise 4 [Backup].sql
+	(CW1) Set Exercise 5 [Backup].sql
+	(CW1) Set Exercise 6 [Backup].sql
+	(CW1) Set Exercise 7 [Backup].sql
+
+If the similar issue still persist, 'Right-click' on the .sql file, select "Edit in Notepad", 
+copy the code, and paste in the database.
